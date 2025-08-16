@@ -13,8 +13,6 @@ A modern, user-friendly, and feature-rich Bible application for Android, designe
 <center>
  <img src="https://github.com/user-attachments/assets/5524a582-dc41-48cf-90d0-feb579e742e6" alt="Home Screen" width="250"/> <img src="https://github.com/user-attachments/assets/3143bd07-99de-44ed-a07c-f41b61299aaf" alt="Reading View" width="250"/> <img src="https://github.com/user-attachments/assets/aecb61d4-855b-4b44-a495-19fe1e92ec1e" alt="Bookmarks" width="250"/> 
 </center>
-*You can also add a GIF demo here:*
----
 
 ## ✨ Key Features
 
