@@ -53,8 +53,8 @@ However, I am happy to discuss the architecture, technical decisions, and challe
 
 ## 🚀 Project Status & Download
 
-The app is currently **in development** / **published on the Google Play Store**.
-
+The app is currently **in production** / 
+-   **Play Store:** (https://play.google.com/store/apps/details?id=com.anonymous.Bible)
 ---
 
 ## 👨‍💻 Contact Me
@@ -62,6 +62,7 @@ The app is currently **in development** / **published on the Google Play Store**
 If you have any questions, feedback, or would like to discuss this project, please feel free to contact me:
 
 -   **LinkedIn:** [Luka Gogoladze](https://www.linkedin.com/in/luka-gogoladze-dev/)
+
 -   **Email:** luka.gogoladze.dev@gmail.com
 
 Thank you for your interest in my project!
