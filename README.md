@@ -54,7 +54,7 @@ However, I am happy to discuss the architecture, technical decisions, and challe
 ## 🚀 Project Status & Download
 
 The app is currently **in production** / 
--   **Play Store:** (https://play.google.com/store/apps/details?id=com.anonymous.Bible)
+-   **Live:**[Play Store](https://play.google.com/store/apps/details?id=com.anonymous.Bible)
 ---
 
 ## 👨‍💻 Contact Me
